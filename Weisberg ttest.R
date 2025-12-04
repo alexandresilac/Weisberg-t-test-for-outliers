@@ -3,6 +3,9 @@
 # Createrd by Alexandre Silva Lacerda
 # https://orcid.org/0009-0000-2825-0288
 
+# For citations, use:
+# A. Lacerda, “Weisberg T-test for outliers,” Version 1, 2025. [Online]. Disponível em: https://github.com/alexandresilac/Weisberg-t-test-for-outliers
+
 # based in the article:
 # Demonstrating thr Consistency of Small Data Sets
 
@@ -89,5 +92,6 @@ tkmessageBox(
   icon = "info",
   type = "ok"
 )
+
 
 
