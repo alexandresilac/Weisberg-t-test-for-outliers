@@ -1,6 +1,6 @@
 ### Weisberg t-test for outliers ### Version 1
 
-# Createrd by Alexandre Silva Lacerda
+# Created by Alexandre Silva Lacerda
 # https://orcid.org/0009-0000-2825-0288
 
 # For citations, use:
@@ -92,6 +92,7 @@ tkmessageBox(
   icon = "info",
   type = "ok"
 )
+
 
 
 
