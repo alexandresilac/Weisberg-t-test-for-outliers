@@ -1,6 +1,6 @@
  Weisberg t-test for outliers ### Version 1
 
-Createrd by Alexandre Lacerda
+Created by Alexandre Lacerda
 https://orcid.org/0009-0000-2825-0288
 
 For citations, use:
