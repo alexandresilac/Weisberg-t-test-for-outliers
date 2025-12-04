@@ -67,7 +67,7 @@ sqrroot = sqrt((nrow(data)-1)/nrow(data))                                       
 weisberg_ttest_highest = sqrroot*tcalc_highest                                  # Weisberg ttest
 weisberg_ttest_lowest = sqrroot*tcalc_lowest                                    # Weisberg ttest
 
-tcrit <- critital_T_values$X0.05[nrow(data)-4]                                  # -4 because the critical temperature table starts at 3 degrees.
+tcrit <- critital_T_values$X0.05[nrow(data)-4]                                  # -4 because the critical t-value table starts at 3 degrees.
                                                                                 # 95% confidence (0.05) was chosen, but 99% (0.01) and 90% (0.1) are available.
 
 tkmessageBox(
@@ -89,4 +89,5 @@ tkmessageBox(
   icon = "info",
   type = "ok"
 )
+
 
